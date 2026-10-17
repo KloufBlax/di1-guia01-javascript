@@ -3,7 +3,7 @@
 // Declara let saldoInicial = 100, let deposito = 50 y let saldoFinal. Calcula saldoFinal y muestra el resultado. No cambies los valores iniciales.
 
 // TODO: escribe aquí tu solución.
-let saldoIncial = 100;
+let saldoInicial = 100;
 let deposito = 50;
 let saldoFinal;
 saldoFinal = saldoInicial + deposito;
