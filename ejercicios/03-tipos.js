@@ -3,3 +3,15 @@
 // Declara const precio=29.90, const titulo="JavaScript", const disponible=true y const pendiente=null. Declara tipoPrecio, tipoTitulo y tipoDisponible utilizando typeof.
 
 // TODO: escribe aquí tu solución.
+const precio = 29.90;
+const titulo = "JavaScript";
+const disponible = true;
+const pendiente = null;
+
+let tipoPrecio = typeof precio;
+let tipoTitulo = typeof titulo;
+let tipoDisponible = typeof disponible;
+
+console.log(tipoPrecio);
+console.log(tipoTitulo);
+console.log(tipoDisponible);
